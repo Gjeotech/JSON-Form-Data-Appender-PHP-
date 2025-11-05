@@ -13,3 +13,9 @@ Uses Bootstrap for basic UI styling.
 PHP – Core server-side logic and data handling.
 HTML5 & Bootstrap 5 – User interface and form styling.
 JSON – File-based data storage format.
+
+
+======🧑‍🏫 Author=======
+Name: Onyeacholem Ifeanyi Joshua
+GitHub: @Gjeotech
+Email: brandykoke@gmail.com
